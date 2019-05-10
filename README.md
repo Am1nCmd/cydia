@@ -1,2 +1,2 @@
-# paxcex.github.io
+# am1ncmd.id/apt
 Cydia Tweak
