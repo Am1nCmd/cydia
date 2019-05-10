@@ -1,2 +1,2 @@
-# am1ncmd.id/apt
+# am1ncmd.id/cydia
 Cydia Tweak
